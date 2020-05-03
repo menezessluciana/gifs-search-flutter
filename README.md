@@ -1,6 +1,6 @@
-# gifs_search
+# Buscador de gifs
 
-A new Flutter project.
+Buscador de gifs em Flutter utilizando os plugins share e transparent image.
 
 ## Getting Started
 
